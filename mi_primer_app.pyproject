@@ -1,0 +1,12 @@
+{
+    "files": [
+        "pagina_principal.py",
+        "form.ui",
+        "registro.ui",
+        "pagina_registro.py",
+        "login.ui",
+        "pagina_login.py",
+        "router.py",
+        "metodos.py"
+    ]
+}
